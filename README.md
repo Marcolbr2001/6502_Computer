@@ -19,9 +19,9 @@
 
 <br><br>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
-        <td style="text-align: justify; vertical-align: top;">
+        <td style="text-align: justify; vertical-align: top; padding-right: 20px;">
             <p>
                The 65C02 is an enhanced version of the MOS Technology 6502 microprocessor, which was widely used in the late 1970s and 1980s in various home computers and game consoles. The 65C02 was introduced as an upgrade to the 6502, providing some additional features and improvements while maintaining compatibility with its predecessor.
             </p>
