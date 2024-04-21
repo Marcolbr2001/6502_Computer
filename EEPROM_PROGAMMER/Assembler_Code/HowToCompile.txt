@@ -1,0 +1,7 @@
+/*
+
+write "vasm6502_oldstyle -Fbin -dotdir <name>.s" to compile
+
+gcc -o ASCtoINO ASCtoINO.c
+
+*/ 
