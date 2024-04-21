@@ -31,7 +31,7 @@
                Code written for the 6502 can generally run on a system equipped with a 65C02 without modification. The 65C02 typically operated at clock speeds ranging from 1 to 4 MHz, depending on the specific implementation. Moreover, the 65C02 enables run-time modification in clock speed, this allowed me not to be limited in study the entire circuit computer behaviour.
             </p>
          </div>
-<div style="flex: 1;"> 
+<div style="flex: 1; text-align: right;"> 
     <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image"  width="400">
     </div>
 </table>
