@@ -22,16 +22,16 @@
 <h2> Processor Detalis </h2>
 
 <div style="display: flex;">
-    <div style="flex: 1; text-align: justify;">
-            <p>
+    <div style="flex: 1; text-align: left;">
+            <p style="text-align: justify;">
                The 65C02 is an enhanced version of the MOS Technology 6502 microprocessor, which was widely used in the late 1970s and 1980s in various home computers and game consoles. The 65C02 was introduced as an upgrade to the 6502, providing some additional features and improvements while maintaining compatibility with its predecessor.
             </p>
             <br><br>
-             <p>
+             <p style="text-align: justify;">
                Code written for the 6502 can generally run on a system equipped with a 65C02 without modification. The 65C02 typically operated at clock speeds ranging from 1 to 4 MHz, depending on the specific implementation. Moreover, the 65C02 enables run-time modification in clock speed, this allowed me not to be limited in study the entire circuit computer behaviour.
             </p>
          </div>
-<div style="flex: 1; text-align: right;"> 
-    <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image"  width="400">
+    <div style="text-align: right;">
+        <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image"  width="400">
     </div>
 </table>
