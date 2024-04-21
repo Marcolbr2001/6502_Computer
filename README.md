@@ -19,7 +19,7 @@
 
 <br><br>
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td style="text-align: justify; vertical-align: top;">
             <p>
@@ -31,7 +31,7 @@
             </p>
         </td>
         <td style="vertical-align: top;">
-            <img src="[image.jpg](https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248)" alt="Image" style="max-width: 50%;">
+            <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image" style="max-width: 50%;">
         </td>
     </tr>
 </table>
