@@ -32,6 +32,6 @@
             </p>
          </div>
 <div style="flex: 1;"> 
-    <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image" style="max-width: 50%;">
+    <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image"  width="400">
     </div>
 </table>
