@@ -5,7 +5,13 @@
 <h2> Final Result </h2>
 
 <p align="center">
-https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d
+<video>
+<source src="[movie.mp4](https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d)" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+    
+<!--https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d-->
 </p>
 
 <h2> Computer Architecture and Workflow </h2>
