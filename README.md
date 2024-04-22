@@ -4,15 +4,9 @@
 
 <h2> Final Result </h2>
 
-<!--<p align="center">-->
-<video width="320" height="240" controls>
-<source src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d.mp4" type="video/mp4">
-<source src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-    
-<!--https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d-->
-<!--</p>-->
+<div align="center">
+    https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d
+</div>
 
 <h2> Computer Architecture and Workflow </h2>
 
