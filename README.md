@@ -1,5 +1,11 @@
 <!--![schema](https://github.com/Marcolbr2001/6502_Computer/assets/66978947/97c4f9f9-d9a5-4a7c-9f70-d55d0c68c5f6)-->
 
+<h1> 6502 Computer</h1>
+
+<h2> Final Result </h2>
+
+https://github.com/Marcolbr2001/6502_Computer/assets/66978947/4c72619a-47c8-4c1f-a60d-3ac7a9b20c1d
+
 <h2> Computer Architecture and Workflow </h2>
 
 <p>Working chip by chip, the computer had been crafted following the processor workflow. At its core, the system is indeed anchored by the 65C02 CPU, and the architecture around it works as it can be seen from the picture below:
