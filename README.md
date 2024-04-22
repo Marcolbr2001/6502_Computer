@@ -4,11 +4,11 @@
 
 <h2> Final Result </h2>
 
-
+<div align="center">
 
 https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0-95bd-d183eab47c54
 
-
+</div>
 
 <h2> Computer Architecture and Workflow </h2>
 
