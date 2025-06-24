@@ -1,7 +1,7 @@
 <!--![schema](https://github.com/Marcolbr2001/6502_Computer/assets/66978947/97c4f9f9-d9a5-4a7c-9f70-d55d0c68c5f6)-->
 
 
-# 🖥️ 6502 Homebrew Computer
+# 🖥️ 6502 Computer
 
 A fully custom-built computer based on the WDC 65C02 processor, designed and assembled from scratch on breadboard. Inspired by vintage 8-bit systems, it features a modular architecture with memory, clock control, basic I/O and a functional LCD interface — all orchestrated via a custom bus.
 
