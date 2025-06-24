@@ -73,9 +73,9 @@ https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0
 
 <pre>
 6502_Computer/
-├── hardware/ # KiCad schematics, wiring plan, and images
-├── rom/ # EEPROM binaries (EhBASIC, shell)
-├── licenses/ # External license details
+├── CPU_Analyzer/ # KiCad schematics, wiring plan, and images
+├── EEPROM/ # EEPROM binaries (EhBASIC, shell)
+├── _Datasheets/ # External license details
 └── README.md
 </pre>
 
