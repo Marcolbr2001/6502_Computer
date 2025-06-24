@@ -31,7 +31,7 @@ This project demonstrates full-stack digital system design: from clock generatio
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/97c4f9f9-d9a5-4a7c-9f70-d55d0c68c5f6" width="600" title="hover text">
   <!--<img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/97c4f9f9-d9a5-4a7c-9f70-d55d0c68c5f6" width="350" alt="accessibility text">-->
 </p>
@@ -41,16 +41,6 @@ This project demonstrates full-stack digital system design: from clock generatio
 - **Bank-switched ROM** to run either:
   - 🧮 *EhBASIC interpreter* for immediate programming
   - 🖥️ *Custom shell* for loading machine code via UART
-
----
-
-## 🔌 How to Use
-
-1. **Assemble the system** using the breadboard layout shown above
-2. **Burn firmware** to EEPROM using your programmer of choice
-3. **Connect serial monitor** at 115200 baud
-4. **Interact via terminal** or use switches as input
-5. **View output** directly on the LCD module
 
 ---
 
@@ -73,7 +63,22 @@ This project demonstrates full-stack digital system design: from clock generatio
 
 ## 📁 Repo Structure
 
+<pre>
+6502_Computer/
+├── hardware/ # KiCad schematics, wiring plan, and images
+├── rom/ # EEPROM binaries (EhBASIC, shell)
+├── licenses/ # External license details
+└── README.md
+</pre>
 
+## 🧠 Inspiration
+
+Based on early microcomputers like the Apple I, with influence from:
+- Ben Eater’s educational 6502 builds
+- 6502.org documentation and community
+- Lee Davison’s EhBASIC
+
+---
 
 
 
