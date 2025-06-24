@@ -40,7 +40,7 @@ This project demonstrates full-stack digital system design: from clock generatio
 
 - **Bank-switched ROM** to run either:
   - 🧮 *EhBASIC interpreter* for immediate programming
-  - 🖥️ *Custom shell* for loading machine code via UART
+  - 🖥️ *Assemlby code* written and loaded to the EEPROM through EEPROM programming circuit
 
 ---
 
