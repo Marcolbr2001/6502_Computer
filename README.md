@@ -11,8 +11,6 @@ A fully custom-built computer based on the WDC 65C02 processor, designed and ass
 
 This project demonstrates full-stack digital system design: from clock generation and memory interfacing to user input and data display. All components are manually wired and debugged to form a working, standalone computer.
 
-![Annotated Breadboard Build](./hardware/images/6502_labeled.jpg)
-
 ---
 
 ## ⚙️ Key Components
@@ -78,6 +76,10 @@ https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0
 ├── _Datasheets/ # External license details
 └── README.md
 </pre>
+
+   <p align="center">
+        <img src="https://github.com/Marcolbr2001/6502_Computer/assets/66978947/2480d8d1-a075-4560-a186-660e817b4248" alt="Image" width = "500">
+    </p>
 
 ## 🧠 Inspiration
 
