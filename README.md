@@ -48,6 +48,14 @@ This project demonstrates full-stack digital system design: from clock generatio
 
 > A detailed image of the fully wired system is shown above.  
 > The system is built entirely on a breadboard for educational and prototyping purposes.
+>
+
+<div align="center">
+
+https://github.com/Marcolbr2001/6502_Computer/assets/66978947/5fb89dd2-7d88-45e0-95bd-d183eab47c54
+
+</div>
+
 
 ---
 
